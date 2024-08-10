@@ -36,6 +36,7 @@ This is the all in one place of awesome-github-profiles.
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Hemu21"><img src="https://avatars.githubusercontent.com/u/106808387?v=4?s=100" width="100px;" alt="Hemanth kumar "/><br /><sub><b>Hemanth kumar </b></sub></a><br /><a href="https://github.com/recodehive/awesome-github-profiles/pulls?q=is%3Apr+reviewed-by%3AHemu21" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://bento.me/anjali-pamidi"><img src="https://avatars.githubusercontent.com/u/154777864?v=4?s=100" width="100px;" alt="Lakshmi Pavananjali"/><br /><sub><b>Lakshmi Pavananjali</b></sub></a><br /><a href="https://github.com/recodehive/awesome-github-profiles/pulls?q=is%3Apr+reviewed-by%3AAnjaliavv51" title="Reviewed Pull Requests">👀</a></td>
+       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ekramzafar"><img src="https://avatars.githubusercontent.com/u/133132379?s=400&u=98812304a4bb2a51d0d46271cc4f08977f316896&v=4" width="100px;" alt="Lakshmi Pavananjali"/><br /><sub><b>Ekram zafar</b></sub></a><br /><a href="https://github.com/recodehive/awesome-github-profiles/pulls?q=is%3Apr+reviewed-by%3AAnjaliavv51" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
 </table>
